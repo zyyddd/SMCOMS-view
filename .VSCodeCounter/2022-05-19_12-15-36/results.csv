@@ -1,0 +1,24 @@
+"filename", "language", "JSON", "Markdown", "JavaScript", "HTML", "JSON with Comments", "Vue", "Less", "comment", "blank", "total"
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\README.md", "Markdown", 0, 15, 0, 0, 0, 0, 0, 0, 5, 20
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\babel.config.js", "JavaScript", 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\jsconfig.json", "JSON with Comments", 0, 0, 0, 0, 8, 0, 0, 12, 0, 20
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\package-lock.json", "JSON", 17621, 0, 0, 0, 0, 0, 0, 0, 1, 17622
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\package.json", "JSON", 29, 0, 0, 0, 0, 0, 0, 0, 1, 30
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\public\index.html", "HTML", 0, 0, 0, 16, 0, 0, 0, 1, 1, 18
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\App.vue", "Vue", 0, 0, 0, 0, 0, 47, 0, 0, 6, 53
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\assets\less\login.less", "Less", 0, 0, 0, 0, 0, 0, 57, 0, 17, 74
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\main.js", "JavaScript", 0, 0, 17, 0, 0, 0, 0, 1, 5, 23
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\router\index.js", "JavaScript", 0, 0, 78, 0, 0, 0, 0, 0, 10, 88
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Addcustomer.vue", "Vue", 0, 0, 0, 0, 0, 78, 0, 1, 5, 84
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Addgoods.vue", "Vue", 0, 0, 0, 0, 0, 81, 0, 1, 7, 89
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Adduser.vue", "Vue", 0, 0, 0, 0, 0, 88, 0, 1, 6, 95
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Checkout.vue", "Vue", 0, 0, 0, 0, 0, 237, 0, 7, 24, 268
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Customer.vue", "Vue", 0, 0, 0, 0, 0, 109, 0, 7, 19, 135
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Goods.vue", "Vue", 0, 0, 0, 0, 0, 113, 0, 5, 7, 125
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Login.vue", "Vue", 0, 0, 0, 0, 0, 67, 0, 0, 10, 77
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Main.vue", "Vue", 0, 0, 0, 0, 0, 115, 0, 0, 20, 135
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Order.vue", "Vue", 0, 0, 0, 0, 0, 84, 0, 4, 7, 95
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\User.vue", "Vue", 0, 0, 0, 0, 0, 125, 0, 18, 16, 159
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\src\views\Welcome.vue", "Vue", 0, 0, 0, 0, 0, 28, 0, 0, 4, 32
+"d:\学习课件\大三\大三下\校企合作课设\课设\supermarketcheckoutsysytem_Vue\vue.config.js", "JavaScript", 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"Total", "-", 17650, 15, 104, 16, 8, 1172, 57, 58, 173, 19253
